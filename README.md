@@ -10,6 +10,8 @@ Blockchain validator and crypto enthusiast. Contributor in NodersUA Team [Nodes 
 
 ### Testnets:
 
+[EmpowerChain](https://empower.explorers.guru/validator/empowervaloper1dlpnhtzz86sgcgrkek4sa8dtcrgtta8hsfxecd)
+
 [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1m7460j097dmnhyj96z9a5fda84en9nhue35etk)
 
 [Andromeda](https://andromeda.explorers.guru/validator/andrvaloper16ql0fqnjhmn3d4ztfkgku4f6amufu60cqgaxa0)
