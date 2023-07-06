@@ -22,7 +22,7 @@ Blockchain validator and crypto enthusiast. Contributor in NodersUA Team [Nodes 
 
 [Defund](https://defund.explorers.guru/validator/defundvaloper1jsntqls5xfxg278n7gmxf6yxkmdj8lh95g56y3)
 
-[Subspace (AspirineCrypto)](https://telemetry.subspace.network/#/0x7f489750cfe91e17fc19b42a5acaba41d1975cedd3440075d4a4b4171ad0ac20)
+[Subspace (AspirineCrypto)](https://telemetry.subspace.network/#list/0xa3cd4b592d93f79943fbc58fc90ca8f516106699c9cf4d7ada98ca22877bc1ae)
 
 [Gear (AspirineCrypto)](https://telemetry.gear-tech.io/#/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
 
