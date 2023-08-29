@@ -10,8 +10,6 @@ Blockchain validator and crypto enthusiast. Contributor in NodersUA Team [Nodes 
 
 ### Testnets:
 
-[EmpowerChain](https://empower.explorers.guru/validator/empowervaloper1dlpnhtzz86sgcgrkek4sa8dtcrgtta8hsfxecd)
-
 [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1m7460j097dmnhyj96z9a5fda84en9nhue35etk)
 
 [Andromeda](https://andromeda.explorers.guru/validator/andrvaloper16ql0fqnjhmn3d4ztfkgku4f6amufu60cqgaxa0)
@@ -20,11 +18,15 @@ Blockchain validator and crypto enthusiast. Contributor in NodersUA Team [Nodes 
 
 [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1u76mc06gvmd473sp5e6nnkvqf6dal7qrjkeuge)
 
-[Defund](https://defund.explorers.guru/validator/defundvaloper1jsntqls5xfxg278n7gmxf6yxkmdj8lh95g56y3)
-
 [Subspace (AspirineCrypto)](https://telemetry.subspace.network/#list/0xa3cd4b592d93f79943fbc58fc90ca8f516106699c9cf4d7ada98ca22877bc1ae)
 
 [Gear (AspirineCrypto)](https://telemetry.gear-tech.io/#/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
+
+### Archive
+
+[EmpowerChain](https://empower.explorers.guru/validator/empowervaloper1dlpnhtzz86sgcgrkek4sa8dtcrgtta8hsfxecd)
+
+[Defund](https://defund.explorers.guru/validator/defundvaloper1jsntqls5xfxg278n7gmxf6yxkmdj8lh95g56y3)
 
 <!--
 **muhaylosemenyuk/muhaylosemenyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
